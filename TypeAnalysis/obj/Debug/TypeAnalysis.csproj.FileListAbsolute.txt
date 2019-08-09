@@ -1,0 +1,11 @@
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\bin\Debug\TypeAnalysis.dll.config
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\bin\Debug\TypeAnalysis.dll
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\bin\Debug\TypeAnalysis.pdb
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\bin\Debug\TypeTable.dll
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\bin\Debug\TypeTable.pdb
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\bin\Debug\TypeTable.dll.config
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\obj\Debug\TypeAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\obj\Debug\TypeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\obj\Debug\TypeAnalysis.csproj.CopyComplete
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\obj\Debug\TypeAnalysis.dll
+C:\Users\vaib0\Documents\CodeAnalyzer\TypeAnalysis\obj\Debug\TypeAnalysis.pdb

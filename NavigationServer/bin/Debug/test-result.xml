@@ -1,0 +1,124 @@
+<root>
+  <TypeAnalysis>
+    <TypeTable filename="../../../TestFiles/File1.cs">
+      <Category type="using">
+        <Name>namespace3</Name>
+      </Category>
+      <Category type="namespace">
+        <Name>namespace1</Name>
+      </Category>
+      <Category type="class">
+        <Name>File1</Name>
+      </Category>
+    </TypeTable>
+    <TypeTable filename="../../../TestFiles/File2.cs">
+      <Category type="using">
+        <Name>namespace3</Name>
+      </Category>
+      <Category type="namespace">
+        <Name>namespace2</Name>
+      </Category>
+      <Category type="enum">
+        <Name>MyEnum</Name>
+      </Category>
+      <Category type="class">
+        <Name>File2</Name>
+      </Category>
+    </TypeTable>
+    <TypeTable filename="../../../TestFiles/File3.cs">
+      <Category type="using">
+        <Name>samenamespace</Name>
+      </Category>
+      <Category type="namespace">
+        <Name>namespace3</Name>
+      </Category>
+      <Category type="delegate">
+        <Name>MyDelegate</Name>
+      </Category>
+      <Category type="class">
+        <Name>File3</Name>
+      </Category>
+    </TypeTable>
+    <TypeTable filename="../../../TestFiles/File4.cs">
+      <Category type="using">
+        <Name>namespace2</Name>
+      </Category>
+      <Category type="using">
+        <Name>namespace3</Name>
+      </Category>
+      <Category type="namespace">
+        <Name>samenamespace</Name>
+      </Category>
+      <Category type="interface">
+        <Name>IFile4</Name>
+      </Category>
+      <Category type="class">
+        <Name>File4</Name>
+      </Category>
+    </TypeTable>
+    <TypeTable filename="../../../TestFiles/File5.cs">
+      <Category type="namespace">
+        <Name>samenamespace</Name>
+      </Category>
+      <Category type="class">
+        <Name>File5</Name>
+      </Category>
+    </TypeTable>
+    <TypeTable filename="../../../TestFiles/File6.cs">
+      <Category type="namespace">
+        <Name>File6</Name>
+      </Category>
+      <Category type="struct">
+        <Name>A</Name>
+      </Category>
+    </TypeTable>
+  </TypeAnalysis>
+  <DepAnalysis>
+    <Filename fName="../../../TestFiles/File4.cs">
+      <Dependency>../../../TestFiles/File3.cs</Dependency>
+      <Dependency>../../../TestFiles/File2.cs</Dependency>
+    </Filename>
+    <Filename fName="../../../TestFiles/File1.cs">
+      <Dependency>../../../TestFiles/File3.cs</Dependency>
+    </Filename>
+    <Filename fName="../../../TestFiles/File2.cs">
+      <Dependency>../../../TestFiles/File3.cs</Dependency>
+    </Filename>
+    <Filename fName="../../../TestFiles/File5.cs">
+      <Dependency>../../../TestFiles/File4.cs</Dependency>
+    </Filename>
+    <Filename fName="../../../TestFiles/File3.cs">
+      <Dependency>../../../TestFiles/File5.cs</Dependency>
+    </Filename>
+  </DepAnalysis>
+  <SCC>
+    <StrongComponent>
+      <filename>File5.cs</filename>
+      <filename>File3.cs</filename>
+      <filename>File4.cs</filename>
+    </StrongComponent>
+    <StrongComponent>
+      <filename>File3.cs</filename>
+    </StrongComponent>
+    <StrongComponent>
+      <filename>File2.cs</filename>
+    </StrongComponent>
+    <StrongComponent />
+    <StrongComponent>
+      <filename>File3.cs</filename>
+    </StrongComponent>
+    <StrongComponent>
+      <filename>File1.cs</filename>
+    </StrongComponent>
+    <StrongComponent>
+      <filename>File4.cs</filename>
+    </StrongComponent>
+    <StrongComponent>
+      <filename>File5.cs</filename>
+    </StrongComponent>
+    <StrongComponent />
+    <StrongComponent>
+      <filename>File6.cs</filename>
+    </StrongComponent>
+  </SCC>
+</root>

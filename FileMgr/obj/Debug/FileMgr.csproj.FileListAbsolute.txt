@@ -1,0 +1,44 @@
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\bin\Debug\Environment.dll
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\bin\Debug\Environment.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\vaib0\Downloads\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\bin\Debug\Environment.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\bin\Debug\Environment.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\bin\Debug\Environment.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\bin\Debug\Environment.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\FileMgr\obj\Debug\FileMgr.pdb

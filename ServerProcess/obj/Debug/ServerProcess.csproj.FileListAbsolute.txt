@@ -1,0 +1,12 @@
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\ServerProcess\bin\Debug\ServerProcess.dll.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\ServerProcess\bin\Debug\ServerProcess.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\ServerProcess\bin\Debug\ServerProcess.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\ServerProcess\obj\Debug\ServerProcess.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\ServerProcess\obj\Debug\ServerProcess.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\ServerProcess\obj\Debug\ServerProcess.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\ServerProcess\bin\Debug\ServerProcess.dll.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\ServerProcess\bin\Debug\ServerProcess.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\ServerProcess\bin\Debug\ServerProcess.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\ServerProcess\obj\Debug\ServerProcess.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\ServerProcess\obj\Debug\ServerProcess.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\ServerProcess\obj\Debug\ServerProcess.pdb

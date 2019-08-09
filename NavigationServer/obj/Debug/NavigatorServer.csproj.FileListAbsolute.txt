@@ -1,0 +1,82 @@
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\Environment.dll
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.exe
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\IService.dll
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\Environment.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\IService.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\IService.dll.config
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csprojResolveAssemblyReference.cache
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Users\vaib0\Downloads\NavigatorClientServer\NavigationServer\obj\Debug\NavigationServer.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Element.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Environment.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\FileMgr.exe
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\IService.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ResultManager.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ServerProcess.dll
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Element.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Environment.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\IService.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\IService.dll.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ResultManager.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ResultManager.dll.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ServerProcess.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ServerProcess.dll.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigatorServer.csprojResolveAssemblyReference.cache
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Users\vaib0\Documents\Academics\SMAProj4\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigationServer.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\NavigationServer.exe.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\NavigationServer.exe
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\NavigationServer.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Element.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Environment.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\FileMgr.exe
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\IService.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\PluggableCommService.exe
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ResultManager.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ServerProcess.dll
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\TestUtilities.exe
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Element.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\Environment.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\FileMgr.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\FileMgr.exe.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\IService.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\IService.dll.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\PluggableCommService.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\PluggableCommService.exe.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ResultManager.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ResultManager.dll.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ServerProcess.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\ServerProcess.dll.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\TestUtilities.pdb
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\bin\Debug\TestUtilities.exe.config
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigatorServer.csprojResolveAssemblyReference.cache
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigatorServer.csproj.CoreCompileInputs.cache
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigatorServer.csproj.CopyComplete
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigationServer.exe
+C:\Users\vaib0\Desktop\RemoteCodeAnalyzer (2)\RemoteCodeAnalyzer\NavigationServer\obj\Debug\NavigationServer.pdb
